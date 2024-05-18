@@ -23,10 +23,16 @@ a {
 ul,
 ol {
   list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 button {
   cursor: pointer;
+}
+
+img {
+  display: block;
 }
 
 .container {
